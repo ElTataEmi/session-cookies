@@ -1,4 +1,4 @@
-const express = require("express"); // 1 instale expres (node_modules, package(lock).json)
+const express = require("express"); // 1 instale expres (node_modules, package(lock).json);
 const path = require("path");
 const fs = require("fs");
 const port= 3000;
